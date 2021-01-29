@@ -1,1 +1,162 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <title>java in HTML</title>
+</head>
+<body>
+<!--    
+    <button onclick="clearInterval(clock)"class="animate__animated animate__backInRight">click me</button> <br><br>
+    <p id="showtime"></p> -->
+
+    <!-- <h1 class="animate__animated animate__backInRight" >Muhammad Hassan Farooq</h1><br><br> -->
+    <!-- <h2 class="animate__animated animate__swing">umar</h2>  -->
+    <!-- <h1 class="animate__animated animate__bounce">An animated element</h1>
+
+
+     <div>   -->
+        <!-- <button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button> -->
+
+<!-- <p id="demo"></p> -->
+ 
+        <!-- <h1>M.Hassan</h1>
+
+        <-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque non, debitis sequi voluptatum dignissimos et odit, deleniti illo maxime repellat ratione.<br> Ex minima delectus, eaque modi perspiciatis quod tempore repellendus?</p> -->
+    <!-- </div> -->
+ <!-- <button onclick="myFun()">click me</button> -->
+ <!-- <button onclick="mesg()">umar</button> -->
+ <!-- <p id="demo"></p> -->
+ <!-- <button>click me</button>
+ <button onclick="mysweet()">hassan</button> -->
+ 
+
+
+ <script>
+      
+
+
+// document.write(Math.(64,5,8,6,4,10,3,21))
+
+document.write(prompt("this is a name"))
+
+
+
+
+
+    //   let clock= setInterval(clocktimeing,1000);
+
+    //   function clocktimeing() {
+    //       let d = new Date();
+    //       let hassan = d.toLocaleString();
+    //       document.getElementById('showtime').innerHTML=hassan;
+
+    //   }
+
+
+
+
+
+    // let clock= setInterval(clocktimeing,1000);
+
+    // function clocktimeing() {
+
+    //     let d = new Date();
+    //     let hassan = d.toLocaleString();
+    //     document.getElementById('showtime').innerHTML=hassan
+        
+    // }
+
+
+
+
+
+
+// let clock = setInterval(time,1000);
+
+// function time() {
+//     let d = new Date();
+//     let hassan = d.toLocaleString();
+//     document.getElementById('showtime').innerHTML=hassan
+// }
+
+
+// let clock = setInterval(time,1000);
+// function time() {
+//     let d =new Date();
+//     let hassan = d.toLocaleString();
+//     document.getElementById('showtime').innerHTML=hassan
+// }
+
+
+//   let d =setTimeout(showalet,2000);
+
+// function showalet() {
+//     alert("welcome to my website :)");
+// }
+
+
+    //    const d = new Date();
+
+    //  const month = d.getUTCMonth()+1;
+    //   const date = d.getUTCDate();
+    //   const year = d.getUTCFullYear();
+    //   document.write(date +"/" + month +"/" + year);
+
+
+
+    //   function mesg() {
+    //     document.write("data is succuss fully submit")
+          
+    //   }
+
+
+
+      
+//       function myFun() {
+
+//         document.body.style.backgroundColor="red";
+//         document.body.style.color="white";
+          
+//       }
+      
+//       function webSite() {
+
+// document.body.style.backgroundColor="green";
+// document.body.style.color="black";
+  
+// }
+// function mysweet() {
+//        window.print 
+    
+// }
+
+// const dateObj = new Date()
+
+// const date = dateObj.getUTCDate();
+// const month= dateObj.getUTCMonth()+1;
+// const year = dateObj.getUTCFullYear();
+ 
+// document.write(date + "/"+ month + "/"+ year)
+
+
+// const d = new Date()
+// const n = d.getTime();
+
+// const hour = d.getUTCHours();
+// const  minute = d.getMinutes();
+// const second = d.getSeconds();
+// document.write(hour + ":" + minute + ":" + second);
+
+
+
+
+
+ </script>
+
+</body>
+</html>
